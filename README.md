@@ -7,7 +7,7 @@ JavaScript, React, Sanity, HTML, CSS - Portfolio Site including links to my proj
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, React, Node, Express, Sanity, HTML, CSS 
+**Tech used:** JavaScript, React, Node, Express, Sanity, HTML, CSS 
 
 ## Optimizations
 
